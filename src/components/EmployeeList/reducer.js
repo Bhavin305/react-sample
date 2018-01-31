@@ -1,4 +1,7 @@
 import * as empAction from './actions';
+// import { initialState } from './../../stores';
+// import { * as store } from './../../stores';
+// TODO: import intialState from store folder and set it in default state on line no-7 and identify issue.
 
 // Sample reducer example 
 // TODO: Fix Add and Remove action
